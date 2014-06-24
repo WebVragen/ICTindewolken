@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>LeukeDingenInAlmere.nl</title>
+		<title>HOME :: LeukeDingenInAlmere.nl</title>
 		<link rel='stylesheet' href='css/main.css'>
 		<link rel='stylesheet' href='css/index.css'>
         <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Open+Sans'>
